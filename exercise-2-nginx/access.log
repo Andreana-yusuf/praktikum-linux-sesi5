@@ -1,0 +1,4 @@
+192.168.1.50 - - [10/May/2026:14:23:45 +0700] "POST /admin/login HTTP/1.1" 200 450 "-" "Mozilla" 2500
+192.168.1.50 - - [10/May/2026:14:24:00 +0700] "POST /admin/login HTTP/1.1" 401 120 "-" "Mozilla" 100
+192.168.1.99 - - [11/May/2026:15:30:12 +0700] "GET /index.html HTTP/1.1" 200 5000 "google.com" "Chrome" 50
+192.168.1.50 - - [11/May/2026:15:31:00 +0700] "GET /admin/dashboard HTTP/1.1" 500 230 "-" "Mozilla" 3000

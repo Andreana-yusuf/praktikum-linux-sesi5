@@ -1,0 +1,2 @@
+{"order_id":"ORD-001","customer":{"id":"C-01","name":"Dre"},"items":[{"sku":"SKU-A","qty":2,"price":5000}],"total":10000,"created_at":"2026-05-01"}
+{"order_id":"ORD-002","customer":{"id":"C-02","name":"User"},"items":[{"sku":"SKU-B","qty":1,"price":15000}],"total":20000,"created_at":"2026-05-02"}
