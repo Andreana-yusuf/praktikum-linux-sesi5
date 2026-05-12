@@ -1,4 +1,5 @@
-      2 active
-      1 aktive
-      1 banned
-      1 inactive
+    354 active
+    155 active 
+    152 aktive
+    169 banned
+    170 inactive
